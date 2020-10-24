@@ -1,3 +1,1 @@
-<?php 
-require 'includes/s1.html'
-?> 
+<?php include("s1.html")?> 
