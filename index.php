@@ -1,1 +1,3 @@
-<?php include_once("s1.html")?> 
+<?php 
+require 'includes/s1.html'
+?> 
