@@ -1,1 +1,1 @@
-<?php include("s1.html")?> 
+<?php include_once("s1.html")?> 
